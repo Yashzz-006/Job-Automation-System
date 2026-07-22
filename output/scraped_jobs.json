@@ -13,12 +13,12 @@
   },
   {
     "source": "arbeitnow",
-    "source_id": "venture-development-manager-at-handly-20vc-backed-berlin-135904",
-    "title": "Venture Development Manager @ handly - 20VC backed",
-    "company": "handly",
-    "location": "Berlin",
-    "description": "We have raised $4M from 20VC, Stride and Base10. What we do: take over the white-collar work of roofing businesses using AI + double their revenue. We are the fastest growing business-in-a-box company in DACH. You will have the opportunity to lay the structure for scaling in a small high-performing team from Berlin as one of the first 10 employees and will work directly with the Operations Lead and the Founder. Aufgaben Till here, Operations Lead at handly. I thought about giving you the standard HR description of a job. I won’t. handly is the most personally and intellectually rewarding environment I have seen so far. You will do exactly what I am doing right now. So chances are, you will dig it a lot, too! Here is what makes it so great: We grow roofing companies by taking away their administrative work and giving them the tools to sell that only big companies would have. Seeing and enabling the growth of talented roofing masters through handly is the most rewarding thing you can imagine. We earn money through a revenue share of our partner businesses. This aligns our incentives 100% - meaning incredible transparency and trust between us and the craftsmen. Our craftsmen deliver real value to customers - the young family who wants to renovate their newly bought home. There is incredibly more demand than supply. Our customers’ customers are incredibly thankful, for the service that our partner companies can deliver to them through handly. You are the owner of this relationship. Together with the owner of the craftsmen company, you will launch the company and grow it to €1M revenue and beyond. You will do that with 10 companies eventually. Through our revenue share business model, you sit exactly at the most important point of our operation. Your daily work generates handly’s revenue. This makes the role of Venture Development Manager the most critical role of the company. A good point to grow from. Day-to-day you will: Be responsible for the development of 10...",
-    "url": "https://www.arbeitnow.com/jobs/companies/handly/venture-development-manager-at-handly-20vc-backed-berlin-135904",
+    "source_id": "senior-python-engineer-network-planning-berlin-142549",
+    "title": "Senior Python Engineer (m/f/d) - Network Planning",
+    "company": "Flix",
+    "location": "Berlin, Germany",
+    "description": "At Flix, we offer a tech-driven environment where innovation meets real-world impact, with competitive pay, strong growth opportunities, and a culture of collaboration and ownership. We're looking for an experienced Senior Python Engineer (m/f/d) to join our Supply Division. You'll make an impact by taking ownership of core backend systems that power our network planning optimization product. Your work will directly support network planners in scheduling vehicles, drivers, and timetables — improving travel experiences for millions of passengers while driving profitability. Our team builds and maintains an optimization platform addressing use cases from vehicle and driver scheduling to timetable optimization. We follow modern system design — Domain-Driven Design, Hexagonal Architecture, and SOLID principles — with strict architectural boundaries enforced by tooling. Our backend workloads (APIs, event consumers, Kubernetes jobs) are built to scale with high code quality standards. The product's algorithm engine is developed by Operations Research Engineers using mathematical optimization. As a Senior Python Engineer, you will own the engineering shell around these algorithms: the APIs, use cases, data pipelines, infrastructure, and the domain models that connect optimization output to the rest of the system. You'll collaborate closely with other engineering teams to design and implement the interfaces and contracts that connect our platform to the wider system landscape. Our current tech stack and toolset include: Python, TypeScript, Shell scripting Flask, React, Pytest PostgreSQL, Confluent Kafka, DataDog AWS tools, Terraform GitLab, Kubernetes, Docker, Azure AD About the Role Own and evolve the backend: APIs, use case layer, domain models, serialization, and event-driven pipelines (Kafka) Take engineering ownership of new product modules — designing the architectural scaffold, wiring layers, and ensuring clean boundaries Build and maintain infrastructure:...",
+    "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-python-engineer-network-planning-berlin-142549",
     "salary_min": null,
     "salary_max": null,
     "salary_currency": ""
@@ -36,6 +36,18 @@
     "salary_currency": "USD"
   },
   {
+    "source": "themuse",
+    "source_id": "16125011",
+    "title": "Software Engineer - Product (Technical Leadership)",
+    "company": "Meta",
+    "location": "Menlo Park, CA",
+    "description": "We are the teams who create all of Facebook's product used by more than 1.5 billion people around the world. Want to build new features and improve existing products like Commerce, Ads, Video, Groups, News Feed, Search, and more? Want to solve unique, large scale, highly complex technical problems? Facebook is seeking experienced full-stack software engineers to join our product teams. You can help build products that help us connect the next billion people, create new features that have billions of interactions per day, and be a part of a team that's working to help people connect around the globe. Join us! Software Engineer - Product (Technical Leadership) Responsibilities: Drive the team's goals and technical direction to pursue opportunities that make your larger organization more efficient Effectively communicate complex features and systems in detail Understand industry & company-wide trends to help assess & develop new technologies Partner & collaborate with organization leaders to help improve the level of performance of the team & organization Identify new opportunities for the larger organization & influence the appropriate people for staffing/prioritizing these new ideas Create consumer products and features on a large scale Lead long term technical vision and roadmap for large cross-company efforts Partner closely with infrastructure and operations teams to build and scale back-end services Minimum Qualifications: Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Experience leading projects with industry-wide impact Experience communicating and working across functions to drive solutions Experience in mentoring/influencing senior engineers across organizations Proven track record of planning multi-year roadmap in which shorter-term projects ladder to the long-term vision Experience in driving large cross-functional/industry-wide engineering efforts 12+ years of programming...",
+    "url": "https://www.themuse.com/jobs/16125011",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": ""
+  },
+  {
     "source": "remotive",
     "source_id": "2069746",
     "title": "Tech Lead Full-Stack Rails Engineer",
@@ -48,13 +60,49 @@
     "salary_currency": "USD"
   },
   {
-    "source": "ashby",
-    "source_id": "notion-05e14247-17c4-4e98-9a13-53828a4e2f13",
-    "title": "Outbound Business Development Representative, AMER",
-    "company": "Notion",
-    "location": "New York, New York",
-    "description": "WHO WE ARE Notion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion. Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work. ABOUT US: Notion helps you build beautiful tools for your life’s work. In today's world of endless apps and tabs, Notion provides one place for teams to get everything done, seamlessly connecting docs, notes, projects, calendar, and email—with AI built in to find answers and automate work. Millions of users, from individuals to large organizations like Toyota, Figma, and OpenAI, love Notion for its flexibility and choose it because it helps them save time and money. In-person collaboration is essential to Notion's culture. We require all team members to work from our offices on Mondays, Tuesdays, and Thursdays, our designated Anchor Days. Certain teams or positions may require additional in-office workdays. ABOUT THE ROLE: We're looking for a motivated early career sales professional with an entrepreneurial and building spirit to join our Outbound Sales Development team! As a member of the team, you'll be instrumental in helping define our outbound sales motion, meaningfully shape our future product, and drive business revenue all while having a blast doing it! WHAT YOU'LL ACHIEVE: - Work...",
-    "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13",
+    "source": "arbeitnow",
+    "source_id": "senior-data-scientist-munchen-69004",
+    "title": "Senior Data Scientist (m/f/d)",
+    "company": "Flix",
+    "location": "München, Bayern, Germany",
+    "description": "At Flix, we offer a tech-driven environment where innovation meets real-world impact, with competitive pay, strong growth opportunities, and a culture of collaboration and ownership. We're looking for a motivated and skilled Senior Data Scientist to join our Team Greenrock – Demand Division . Our Tech team owns Flix's Revenue Management System (RMS), a production system with a direct commercial impact. We are looking for a colleague who will play an active role in shaping the next generation of the RMS by leveraging their deep expertise in revenue management. This is a hands-on senior role in a non-greenfield environment: delivering meaningful change requires care, conviction, and patience. About the Role Work closely with commercial stakeholders to translate business requirements into well-scoped projects and respond to operational inquiries. Translate revenue management theory and industry best practices into concrete, testable improvements, from idea and experimentation through to production rollout. Co-own the evolution of the entire system through regular collaboration and discussions with peers across your team and neighboring engineering teams. Contribute to the technical health, reliability, and observability of the existing system. About You Education and Revenue Management expertise (must-have) Advanced degree ( Master's or PhD ) in Operations Research, Mathematics, Statistics , or a related quantitative field Solid theoretical foundation in RM: demand modeling, dynamic pricing, and network revenue management. Applied experience with RM or pricing tech solutions in transportation, travel, hospitality, retail, or a comparable domain is a big plus. Engineering and data craft Strong hands-on Python (including NumPy, Polars, Pandas, SciPy) and comfort with SQL on large datasets. Production-code experience is welcome but not required; what we expect is genuine interest in writing, reviewing, and maintaining code that runs reliably in production. Soft skills...",
+    "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-scientist-munchen-69004",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": ""
+  },
+  {
+    "source": "arbeitnow",
+    "source_id": "senior-data-scientist-berlin-246511",
+    "title": "Senior Data Scientist (m/f/d)",
+    "company": "Flix",
+    "location": "Berlin, Germany",
+    "description": "At Flix, we offer a tech-driven environment where innovation meets real-world impact, with competitive pay, strong growth opportunities, and a culture of collaboration and ownership. We're looking for a motivated and skilled Senior Data Scientist to join our Team Greenrock – Demand Division . Our Tech team owns Flix's Revenue Management System (RMS), a production system with a direct commercial impact. We are looking for a colleague who will play an active role in shaping the next generation of the RMS by leveraging their deep expertise in revenue management. This is a hands-on senior role in a non-greenfield environment: delivering meaningful change requires care, conviction, and patience. About the Role Work closely with commercial stakeholders to translate business requirements into well-scoped projects and respond to operational inquiries. Translate revenue management theory and industry best practices into concrete, testable improvements, from idea and experimentation through to production rollout. Co-own the evolution of the entire system through regular collaboration and discussions with peers across your team and neighboring engineering teams. Contribute to the technical health, reliability, and observability of the existing system. About You Education and Revenue Management expertise (must-have) Advanced degree ( Master's or PhD ) in Operations Research, Mathematics, Statistics , or a related quantitative field Solid theoretical foundation in RM: demand modeling, dynamic pricing, and network revenue management. Applied experience with RM or pricing tech solutions in transportation, travel, hospitality, retail, or a comparable domain is a big plus. Engineering and data craft Strong hands-on Python (including NumPy, Polars, Pandas, SciPy) and comfort with SQL on large datasets. Production-code experience is welcome but not required; what we expect is genuine interest in writing, reviewing, and maintaining code that runs reliably in production. Soft skills...",
+    "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-scientist-berlin-246511",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": ""
+  },
+  {
+    "source": "arbeitnow",
+    "source_id": "senior-data-platform-engineer-berlin-142531",
+    "title": "Senior Data Platform Engineer (m/f/d)",
+    "company": "Flix",
+    "location": "Berlin, Berlin, Germany",
+    "description": "At Flix, we offer a dynamic work environment with competitive pay, strong growth opportunities, and a tech-driven approach to making travel more accessible, sustainable, and affordable. We're looking for a motivated and skilled Senior Data Platform Engineer to join our Core Data Platform team – Foundation Division . You will help us drive the company to the next level, and have the most direct influence on our success. The team provides tools, infrastructure, expertise and best practices to empower every Flix employee through data excellence and reliable infrastructure. We put our users into the heart of our data platform, ensuring that they can easily process, discover, analyze, share and leverage data. We have a constant process of reflecting on our current work, and adapting new practices and technologies. Our daily work is built on trust and collaboration. About the Role Improve and maintain our scalable data platform infrastructure on AWS, K8s, Confluent Cloud and Snowflake, ensuring high availability and reliability for all data consumers across the organization Collaborate closely with data engineers, analysts, and product teams to understand their needs and continuously improve the platform's usability and self-service capabilities Develop and maintain infrastructure-as-code using Terraform, ensuring our cloud environments are reproducible, auditable, and well-documented Operate and improve our data platform by optimizing workloads for performance, cost-efficiency, and resilience Build and refine CI/CD pipelines (GitLab) to enable fast, safe, and automated deployments across the data platform Evaluate and introduce new technologies and best practices to keep our data platform modern, secure, and future-proof Contribute to architectural decisions and technical documentation, sharing knowledge within the team and across the organization Implement and maintain comprehensive observability and monitoring (Datadog), creating actionable alerts and dashboards to...",
+    "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-data-platform-engineer-berlin-142531",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": ""
+  },
+  {
+    "source": "arbeitnow",
+    "source_id": "senior-software-engineer-mobile-android-berlin-494099",
+    "title": "Senior Software Engineer - Mobile/Android (m/f/d)",
+    "company": "Flix",
+    "location": "Berlin, Berlin, Germany",
+    "description": "At Flix, we offer a tech-driven environment where innovation meets real-world impact, with competitive pay, strong growth opportunities, and a culture of collaboration and ownership. We're looking for a Senior Software Engineer - Android (m/f/d) to help shape the future of Flix mobile experiences, making travel seamless for millions of users worldwide. In this role, you'll be a key contributor to developing high-quality, scalable, and user-friendly Mobile applications that enhance the passenger journey. You'll be joining the Android Team under the Mobile Cluster in our Customer Experience Stream - Demand Division. You will be a part of a diverse team of individuals including product owner, UX specialist, Agile tester and engineers. Our team is responsible for the travel onboarding journey and post-booking experience, ensuring our app is the most convenient travel companion for our passengers. Beyond our team, we also actively collaborate actively with our iOS and feature based teams in other streams and divisions to create a seamless, mobile experience. This involves delivery high quality work with end-to-end testing and a smooth transition to a fully integrated travel experience journey in mobile. Our Tech Stack: Languages & Architecture: Kotlin, Jetpack Compose, MVVM, Clean Architecture Networking & Data: GraphQL, Firebase Remote Config, Crashlytics Dependency Injection: Dagger/Hilt Testing: Espresso, Robolectric, JUnit CI/CD & Automation: GitLab CI/CD, Fastlane, Docker Collaboration Tools: Figma, Microsoft Teams, Atlassin Jira, Confluence, Atlas etc About the Role Design, Develop, and Maintain high-quality Android applications with a focus on scalability, performance, and user experience Collaborate closely and effectively with iOS, Backend, and Feature based Teams to align on feature specifications and ensure smooth cross-platform integration Drive technical improvements across the entire codebase, including architecture enhancements and codebase modernization...",
+    "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-software-engineer-mobile-android-berlin-494099",
     "salary_min": null,
     "salary_max": null,
     "salary_currency": ""
@@ -70,65 +118,5 @@
     "salary_min": null,
     "salary_max": null,
     "salary_currency": ""
-  },
-  {
-    "source": "ashby",
-    "source_id": "notion-b21fef72-4864-4a3e-a627-91557a0f8a36",
-    "title": "Outbound Business Development Representative, AMER ",
-    "company": "Notion",
-    "location": "San Francisco, California",
-    "description": "WHO WE ARE Notion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion. Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work. ABOUT US: Notion helps you build beautiful tools for your life’s work. In today's world of endless apps and tabs, Notion provides one place for teams to get everything done, seamlessly connecting docs, notes, projects, calendar, and email—with AI built in to find answers and automate work. Millions of users, from individuals to large organizations like Toyota, Figma, and OpenAI, love Notion for its flexibility and choose it because it helps them save time and money. In-person collaboration is essential to Notion's culture. We require all team members to work from our offices on Mondays, Tuesdays, and Thursdays, our designated Anchor Days. Certain teams or positions may require additional in-office workdays. ABOUT THE ROLE: We're looking for a motivated early career sales professional with an entrepreneurial and building spirit to join our Outbound Sales Development team! As a member of the team, you'll be instrumental in helping define our outbound sales motion, meaningfully shape our future product, and drive business revenue all while having a blast doing it! WHAT YOU'LL ACHIEVE: - Work...",
-    "url": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": ""
-  },
-  {
-    "source": "ashby",
-    "source_id": "notion-d177d052-ef57-4900-acf2-d58e9eded620",
-    "title": "Product Designer",
-    "company": "Notion",
-    "location": "San Francisco, California",
-    "description": "WHO WE ARE Notion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion. Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work. ABOUT THE ROLE Imagine yourself in the 1970s or 80s thinking through how computing should look and feel for people who had never seen one before. That's what we're trying to do at Notion — make software that feels timeless, with the craftsmanship of German cameras, playfulness of Japanese toys, and mass appeal of Coca-Cola. We have no end of fascinating challenges that can only be solved by someone with innate product & UX sense, technical aptitude, great taste, and impeccable craft. This role can be based in either San Francisco or New York City. We work from our offices on Mondays, Tuesdays and Thursdays (our Anchor Days) because we do our best thinking and building together in person. We’re looking for someone who’s excited to work alongside the team during those days. WHAT YOU'LL ACHIEVE: - Design product concepts that balance vision, craft, speed, and business potential. - Craft every detail of new product features, from idea to UX to pixel-perfect execution. - Run projects end to end with engineers to drive your vision to the ship line. - Partner closely with our Customer Experience,...",
-    "url": "https://jobs.ashbyhq.com/notion/d177d052-ef57-4900-acf2-d58e9eded620",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": ""
-  },
-  {
-    "source": "ashby",
-    "source_id": "notion-92601e94-66c8-46ef-b949-da1547a5caa8",
-    "title": "Country Manager, Singapore",
-    "company": "Notion",
-    "location": "Singapore",
-    "description": "WHO WE ARE Notion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion. Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work. ABOUT US: Notion helps you build beautiful tools for your life’s work. In today’s world of endless apps and tabs, Notion provides one place for teams to get everything done, seamlessly connecting docs, notes, projects, calendar, and email—with AI built in to find answers and automate work. Millions of users, from individuals to large organizations like Toyota, Figma, and OpenAI, love Notion for its flexibility and choose it because it helps them save time and money. In-person collaboration is essential to Notion’s culture. We require all team members to work from our offices on Mondays and Thursdays, our designated Anchor Days. Certain teams or positions may require additional in-office workdays. ABOUT THE ROLE: We’re looking for a Country Manager to be the single-threaded owner of establishing and growing Notion’s presence in Singapore. This is a market-building leadership role. You will create initial market momentum, convert early demand into lighthouse customer wins, and install a repeatable operating system that scales. Think of it as building a startup within Notion: you will own...",
-    "url": "https://jobs.ashbyhq.com/notion/92601e94-66c8-46ef-b949-da1547a5caa8",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": ""
-  },
-  {
-    "source": "remoteok",
-    "source_id": "1135151",
-    "title": "Iceberg Open Source",
-    "company": "Wipro",
-    "location": "Bengaluru, ",
-    "description": "Job description: Mandatory Skills: Iceberg Open Source . Â Experience: 5-8 Years . Â Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, your career, and your skills. We want to see the constant evolution of our business and our industry. It has always been in our DNA - as the world around us changes, so do we. Join a business powered by purpose and a place that empowers you to design your own reinvention. Please mention the word **MASTERPIECES** and tag RMTQuMTAyLjIuODY= when applying to show you read the job post completely (#RMTQuMTAyLjIuODY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-    "url": "https://remoteOK.com/remote-jobs/remote-iceberg-open-source-wipro-1135151",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD"
-  },
-  {
-    "source": "remotive",
-    "source_id": "2091068",
-    "title": "Head of Marketing & Communications",
-    "company": "garden3d",
-    "location": "Worldwide",
-    "description": "We are hiring a Head of Marketing & Communications to tell the garden3d story across the internet, from wherever in the world you happen to be. More details if you check our original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google , Stripe , Figma , Hinge , Black Socialists in America , ACLU , Pratt , Parsons , Mozilla , The Nobel Prize , MIT , Gnosis , Etsy & Gagosian . We’re the software team behind innovative products like The Light Phone & Mill , and we operate a global, decentralized community space collective called Index Space . We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs. Sanctuary Computer — Development At Sanctuary Computer we’re building a different type of technology shop – one that prioritizes close collaboration between the client and the craftsperson. Our projects range from design-forward websites, to robust web apps, to native mobile development. XXIX — Design When we started XXIX in 2013, we set out to create a different kind of design studio and we’ve thrived because we continually ask what a creative practice can be. We’re building a radically different kind of organization that values autonomy, growth, transparency, and shared responsibility. Index Space — Community A network of physical spaces all around the world, Index provides space for the exchange of knowledge and tools. We nurture trust within the creative community through generosity and abundance of ideas and care. garden3d TK — Media At garden3d, we’re in the early...",
-    "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
-    "salary_min": "$150k - $230k",
-    "salary_max": null,
-    "salary_currency": "USD"
   }
 ]

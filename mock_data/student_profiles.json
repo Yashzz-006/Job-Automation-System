@@ -1,0 +1,20 @@
+[
+  {
+    "student_id": "STU001",
+    "name": "Shreyas S",
+    "primary_domain": "ML/AI",
+    "secondary_domains": ["Full Stack", "Backend"],
+    "skills": ["Python", "Java", "React", "Node.js", "Docker", "OpenCV", "TensorFlow", "PyTorch", "FastAPI", "MongoDB"],
+    "experience_years": 0,
+    "projects": ["AI Prompt Generator", "Similar Object Detection System", "Text to Sign Language Generator"]
+  },
+  {
+    "student_id": "STU002",
+    "name": "Riya K",
+    "primary_domain": "Full Stack",
+    "secondary_domains": ["Backend"],
+    "skills": ["JavaScript", "TypeScript", "React", "Node.js", "PostgreSQL", "Redis", "Docker", "AWS", "REST APIs", "GraphQL"],
+    "experience_years": 2,
+    "projects": ["E-commerce Platform", "Real-time Chat Application", "Blog CMS"]
+  }
+]

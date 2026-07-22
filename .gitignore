@@ -1,4 +1,38 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Environment
 .env
+.env.local
+
+# Build
 *.egg-info/
+dist/
+build/
+
+# Output & Data
+output/
+*.pdf
+*.log
+*.tmp
+*.db
+*.sqlite
+*.db-journal
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
