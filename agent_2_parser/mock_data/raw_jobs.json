@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Full Stack Developer",
+    "company": "TechCorp India",
+    "description": "We are looking for a Full Stack Developer with 3+ years of experience in React, Node.js, and MongoDB. You will be building scalable web applications for our fintech platform. Experience with AWS and Docker is a plus.",
+    "url": "https://example.com/job/1",
+    "location": "Bangalore, India",
+    "salary_min": 1200000,
+    "salary_max": 1800000,
+    "salary_currency": "INR",
+    "source": "Adzuna"
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning Intern",
+    "company": "AI Labs",
+    "description": "Looking for a motivated ML intern to work on NLP and computer vision projects. Must know Python, TensorFlow, PyTorch, and have experience with transformer models. Knowledge of MLOps and Docker is desirable. This is a 6-month paid internship.",
+    "url": "https://example.com/job/2",
+    "location": "Remote",
+    "salary_min": 30000,
+    "salary_max": 50000,
+    "salary_currency": "INR",
+    "source": "Internshala"
+  },
+  {
+    "id": 3,
+    "title": "DevOps Engineer",
+    "company": "CloudNine Solutions",
+    "description": "Seeking a DevOps engineer to manage AWS infrastructure, CI/CD pipelines, and Kubernetes clusters. Required skills: Terraform, Ansible, Jenkins, Docker, Kubernetes, Linux administration. AWS or GCP certification is preferred.",
+    "url": "https://example.com/job/3",
+    "location": "Hyderabad, India",
+    "salary_min": 1800000,
+    "salary_max": 2800000,
+    "salary_currency": "INR",
+    "source": "LinkedIn"
+  },
+  {
+    "id": 4,
+    "title": "Cybersecurity Analyst",
+    "company": "SecureShield Corp",
+    "description": "Join our security team to perform penetration testing, vulnerability assessments, and incident response. Must have experience with Burp Suite, Metasploit, Wireshark, and SIEM tools. CEH or OSCP certification preferred.",
+    "url": "https://example.com/job/4",
+    "location": "Mumbai, India",
+    "salary_min": 1500000,
+    "salary_max": 2200000,
+    "salary_currency": "INR",
+    "source": "Naukri"
+  },
+  {
+    "id": 5,
+    "title": "Backend Engineer - Java Spring Boot",
+    "company": "FinFlow Inc",
+    "description": "Build and maintain microservices using Java Spring Boot and PostgreSQL. Experience required with Kafka, Redis, REST APIs, and JWT authentication. Familiarity with React is nice-to-have but not required.",
+    "url": "https://example.com/job/5",
+    "location": "Pune, India",
+    "salary_min": 1400000,
+    "salary_max": 2000000,
+    "salary_currency": "INR",
+    "source": "Adzuna"
+  },
+  {
+    "id": 6,
+    "title": "React Native Mobile Developer",
+    "company": "AppCraft Studios",
+    "description": "Looking for a React Native developer to build cross-platform mobile applications. Must have experience with TypeScript, Redux, Firebase, and publishing apps on App Store and Google Play. Knowledge of native Android/iOS development is a plus.",
+    "url": "https://example.com/job/6",
+    "location": "Remote",
+    "salary_min": 1000000,
+    "salary_max": 1600000,
+    "salary_currency": "INR",
+    "source": "RemoteOK"
+  },
+  {
+    "id": 7,
+    "title": "QA Test Engineer",
+    "company": "QualityFirst Tech",
+    "description": "We need a QA engineer to write and execute test cases, automate regression tests using Selenium and Cypress, and perform API testing with Postman. Experience with JIRA and CI/CD pipelines is required.",
+    "url": "https://example.com/job/7",
+    "location": "Chennai, India",
+    "salary_min": 600000,
+    "salary_max": 1000000,
+    "salary_currency": "INR",
+    "source": "Naukri"
+  },
+  {
+    "id": 8,
+    "title": "Salesforce Developer",
+    "company": "CloudForce Solutions",
+    "description": "Develop and maintain Salesforce applications using Apex, Lightning Web Components, and SOQL. Experience with Salesforce integration, Flow automation, and deployment using Salesforce DX. Salesforce PD1 certification preferred.",
+    "url": "https://example.com/job/8",
+    "location": "Bangalore, India",
+    "salary_min": 1200000,
+    "salary_max": 2000000,
+    "salary_currency": "INR",
+    "source": "LinkedIn"
+  }
+]
