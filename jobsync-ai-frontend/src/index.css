@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-blue: #4f46e5;
+  --color-brand-purple: #7c3aed;
+  --color-brand-bg: #f7f7fb;
+  --color-brand-surface: #ffffff;
+  --color-brand-border: #e5e4f0;
+  --color-match-good: #16a34a;
+  --color-match-mid: #d97706;
+}
+
+body {
+  margin: 0;
+  background: var(--color-brand-bg);
+  font-family: system-ui, "Segoe UI", Roboto, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
