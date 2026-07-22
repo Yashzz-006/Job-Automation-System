@@ -26,11 +26,16 @@
 /* ================================================================
    GLOBAL BASE
    ================================================================ */
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   background: var(--color-brand-bg);
   color: var(--color-ink);
   font-family: "Inter", system-ui, "Segoe UI", Roboto, sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 * {
@@ -40,6 +45,23 @@ body {
 :focus-visible {
   outline: 2px solid var(--color-brand-blue);
   outline-offset: 2px;
+}
+
+/* ================================================================
+   LIGHT THEME OVERRIDES
+   ================================================================ */
+[data-theme="light"] {
+  --color-brand-blue: #10B981;
+  --color-brand-purple: #EF4444;
+  --color-brand-bg: #F8F9FC;
+  --color-brand-surface: #FFFFFF;
+  --color-brand-border: #E2E5EF;
+  --color-match-good: #10B981;
+  --color-match-mid: #F59E0B;
+  --color-match-bad: #EF4444;
+  --color-ink: #1A1D35;
+  --color-ink-soft: #374151;
+  --color-muted: #6B7280;
 }
 
 /* ================================================================
@@ -141,17 +163,28 @@ body {
   opacity: 1;
 }
 
-/* Card glass effect */
+/* Card glass effect — adapts to theme */
 .glass-card {
   background: rgba(26, 29, 53, 0.45);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   border: 1px solid rgba(77, 230, 182, 0.08);
+  transition: background 0.3s ease, border-color 0.3s ease;
 }
 
 .glass-card:hover {
   border-color: rgba(77, 230, 182, 0.2);
   background: rgba(26, 29, 53, 0.65);
+}
+
+[data-theme="light"] .glass-card {
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(16, 185, 129, 0.12);
+}
+
+[data-theme="light"] .glass-card:hover {
+  border-color: rgba(16, 185, 129, 0.25);
+  background: rgba(255, 255, 255, 0.85);
 }
 
 /* ================================================================
@@ -215,7 +248,7 @@ body {
 }
 
 /* ================================================================
-   SHADCN / THEMING OVERRIDES
+   SHADCN / THEMING OVERRIDES (DARK — default)
    ================================================================ */
 @theme inline {
   --font-heading: var(--font-sans);
@@ -294,6 +327,7 @@ body {
   --sidebar-ring: oklch(0.85 0.15 165);
 }
 
+/* Dark class for shadcn components */
 .dark {
   --background: oklch(0.1 0.02 270);
   --foreground: oklch(0.985 0 0);
@@ -326,6 +360,53 @@ body {
   --sidebar-accent-foreground: oklch(0.985 0 0);
   --sidebar-border: oklch(0.28 0.02 270);
   --sidebar-ring: oklch(0.85 0.15 165);
+}
+
+/* Light theme shadcn overrides */
+[data-theme="light"] {
+  --background: oklch(0.98 0.005 270);
+  --foreground: oklch(0.15 0.02 270);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.15 0.02 270);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.15 0.02 270);
+  --primary: oklch(0.7 0.17 165);
+  --primary-foreground: oklch(1 0 0);
+  --secondary: oklch(0.95 0.01 270);
+  --secondary-foreground: oklch(0.25 0.02 270);
+  --muted: oklch(0.95 0.01 270);
+  --muted-foreground: oklch(0.5 0.03 270);
+  --accent: oklch(0.95 0.01 270);
+  --accent-foreground: oklch(0.25 0.02 270);
+  --destructive: oklch(0.6 0.2 25);
+  --border: oklch(0.9 0.01 270);
+  --input: oklch(0.92 0.01 270);
+  --ring: oklch(0.7 0.17 165);
+  --chart-1: oklch(0.7 0.17 165);
+  --chart-2: oklch(0.55 0.15 280);
+  --chart-3: oklch(0.6 0.17 25);
+  --chart-4: oklch(0.7 0.14 85);
+  --chart-5: oklch(0.6 0.12 200);
+  --sidebar: oklch(0.97 0.005 270);
+  --sidebar-foreground: oklch(0.15 0.02 270);
+  --sidebar-primary: oklch(0.7 0.17 165);
+  --sidebar-primary-foreground: oklch(1 0 0);
+  --sidebar-accent: oklch(0.94 0.01 270);
+  --sidebar-accent-foreground: oklch(0.25 0.02 270);
+  --sidebar-border: oklch(0.9 0.01 270);
+  --sidebar-ring: oklch(0.7 0.17 165);
+}
+
+/* ================================================================
+   AUTOFILL OVERRIDES
+   ================================================================ */
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active {
+    -webkit-box-shadow: 0 0 0 30px var(--color-brand-bg) inset !important;
+    -webkit-text-fill-color: var(--color-ink) !important;
+    transition: background-color 5000s ease-in-out 0s;
 }
 
 @layer base {

@@ -20,9 +20,7 @@ export default function Sidebar() {
   const links = user?.role === "recruiter" ? recruiterLinks : studentLinks;
 
   return (
-    <aside className="w-60 shrink-0 h-screen sticky top-0 flex flex-col relative overflow-hidden"
-      style={{ background: "rgba(15, 17, 32, 0.95)", backdropFilter: "blur(20px)" }}
-    >
+    <aside className="w-60 shrink-0 h-screen sticky top-0 flex flex-col relative overflow-hidden bg-brand-surface/90 backdrop-blur-md">
       {/* Subtle gradient edge */}
       <div className="absolute right-0 top-0 bottom-0 w-px bg-gradient-to-b from-brand-blue/20 via-brand-border to-brand-purple/20" />
       

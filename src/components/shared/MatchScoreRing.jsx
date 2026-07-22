@@ -1,7 +1,8 @@
 import { motion, animate } from "framer-motion";
 import { useEffect, useState, useId } from "react";
+import { useTheme } from "../../context/ThemeContext";
 
-export default function MatchScoreRing({ score = 0, size = 84, label, theme = "dark" }) {
+export default function MatchScoreRing({ score = 0, size = 84, label, theme: explicitTheme }) {
   const uniqueId = useId();
   const strokeWidth = size * 0.08;
   const radius = (size - strokeWidth * 3) / 2;
@@ -12,7 +13,9 @@ export default function MatchScoreRing({ score = 0, size = 84, label, theme = "d
   const arcLength = circumference * 0.75;
   const scoreOffset = arcLength - (score / 100) * arcLength;
   
-  const isDark = theme === "dark";
+  const { theme: contextTheme } = useTheme();
+  const activeTheme = explicitTheme || contextTheme || "dark";
+  const isDark = activeTheme === "dark";
 
   // Animated counter
   const [displayScore, setDisplayScore] = useState(0);

@@ -1,20 +1,24 @@
 import { motion } from "framer-motion";
+import { useTheme } from "../../context/ThemeContext";
 
 // Multi-orb ambient background with particle field.
 // Designed to live behind content — blurred, low-opacity, slow-moving.
 export default function AnimatedBackground({ variant = "default" }) {
+  const { theme } = useTheme();
+  const opacityMultiplier = theme === "dark" ? 1 : 0.4;
+
   const orbs = variant === "dense"
     ? [
-        { cls: "animate-float-a", color: "#4DE6B6", size: 600, top: "-10%", left: "-8%", opacity: 0.25 },
-        { cls: "animate-float-b", color: "#818CF8", size: 550, top: "20%", right: "-12%", opacity: 0.2 },
-        { cls: "animate-float-c", color: "#F87171", size: 480, bottom: "5%", left: "15%", opacity: 0.18 },
-        { cls: "animate-float-d", color: "#FBBF24", size: 420, top: "50%", right: "20%", opacity: 0.15 },
-        { cls: "animate-float-a", color: "#4DE6B6", size: 360, bottom: "-10%", right: "-5%", opacity: 0.12 },
+        { cls: "animate-float-a", color: "#4DE6B6", size: 600, top: "-10%", left: "-8%", opacity: 0.25 * opacityMultiplier },
+        { cls: "animate-float-b", color: "#818CF8", size: 550, top: "20%", right: "-12%", opacity: 0.2 * opacityMultiplier },
+        { cls: "animate-float-c", color: "#F87171", size: 480, bottom: "5%", left: "15%", opacity: 0.18 * opacityMultiplier },
+        { cls: "animate-float-d", color: "#FBBF24", size: 420, top: "50%", right: "20%", opacity: 0.15 * opacityMultiplier },
+        { cls: "animate-float-a", color: "#4DE6B6", size: 360, bottom: "-10%", right: "-5%", opacity: 0.12 * opacityMultiplier },
       ]
     : [
-        { cls: "animate-float-a", color: "#4DE6B6", size: 520, top: "-8%", left: "-5%", opacity: 0.25 },
-        { cls: "animate-float-b", color: "#818CF8", size: 480, top: "30%", right: "-10%", opacity: 0.2 },
-        { cls: "animate-float-c", color: "#F87171", size: 400, bottom: "0%", left: "25%", opacity: 0.15 },
+        { cls: "animate-float-a", color: "#4DE6B6", size: 520, top: "-8%", left: "-5%", opacity: 0.25 * opacityMultiplier },
+        { cls: "animate-float-b", color: "#818CF8", size: 480, top: "30%", right: "-10%", opacity: 0.2 * opacityMultiplier },
+        { cls: "animate-float-c", color: "#F87171", size: 400, bottom: "0%", left: "25%", opacity: 0.15 * opacityMultiplier },
       ];
 
   return (
