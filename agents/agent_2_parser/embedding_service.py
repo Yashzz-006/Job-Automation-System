@@ -1,5 +1,7 @@
 import numpy as np
-from config import EMBEDDING_DIM, EMBEDDING_MODEL
+
+EMBEDDING_DIM = 384
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 try:
     from sentence_transformers import SentenceTransformer
@@ -17,8 +19,6 @@ try:
         text = f"{job_title}. Skills: {', '.join(required_skills[:15])}. {description[:1024]}"
         vector = model.encode(text, normalize_embeddings=True)
         return vector.tolist()
-
-    print("[embedding] Using sentence-transformers model:", EMBEDDING_MODEL)
 
 except ImportError:
     print("[embedding] sentence-transformers not installed; using mock embeddings")

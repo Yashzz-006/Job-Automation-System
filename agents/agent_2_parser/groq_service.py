@@ -2,13 +2,6 @@ import json
 import re
 
 from groq import Groq
-from config import GROQ_API_KEY, GROQ_MODEL
-
-if not GROQ_API_KEY or GROQ_API_KEY == "your_groq_api_key_here":
-    raise RuntimeError(
-        "GROQ_API_KEY not set. Add it to .env file:\n"
-        "GROQ_API_KEY=gsk_your_key_here"
-    )
 
 SYSTEM_PROMPT = """You are a job classifier. Given a raw job posting, extract structured information.
 Return ONLY valid JSON with no markdown fences, no extra text:
@@ -42,10 +35,10 @@ def _parse_json_response(text):
     return json.loads(cleaned)
 
 
-def classify(job):
-    client = Groq(api_key=GROQ_API_KEY)
+def classify(job, api_key: str, model: str = "llama-3.3-70b-versatile"):
+    client = Groq(api_key=api_key)
     response = client.chat.completions.create(
-        model=GROQ_MODEL,
+        model=model,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": _build_user_message(job)},
