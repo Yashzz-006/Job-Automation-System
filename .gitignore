@@ -32,6 +32,10 @@ Thumbs.db
 *.swp
 *.swo
 
+# Frontend
+node_modules/
+Frontend/job_automation_system/
+
 # Testing
 .coverage
 htmlcov/
